@@ -1,0 +1,7 @@
+{
+  "name": "RailsApp Container",
+  "dockerComposeFile": ["../../docker-compose.yml"],
+  "service": "app",
+  "shutdownAction": "stopCompose",
+  "workspaceFolder": "/workspace"
+}
