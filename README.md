@@ -22,7 +22,7 @@ Visit https://devteds.com to watch all the videos and courses on DevOps and Clou
 
 ```
 mkdir ~/projs
-git clone https://github.com/devteds/devcontainers-for-developers-rails-multi-container-local-setup.git devcontainers-for-dev
+git clone git@github.com:devteds/devcontainers-for-developers-rails-multi-container-local-setup.git devcontainers-for-dev
 cd devcontainers-for-dev
 ```
 
